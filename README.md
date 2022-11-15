@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chainsonmee
 - 👀 I’m interested in Data science
 - :flushed: Student of HSE in Saint-Petersburg
-- 💞️ Always trying to improve myself in a field of datascience
 - 📫 How to reach me: vkhmelnitcki@edu.hse.ru
 
 <!---
